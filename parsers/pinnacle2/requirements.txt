@@ -1,0 +1,5 @@
+aiohttp
+fuzzywuzzy
+requests
+python-levenshtein
+aiogram

@@ -1,0 +1,17 @@
+{
+  "pinnacle": {
+    "port": 6000,
+    "enabled": true,
+    "data_path": "parsers/pinnacle2/"
+  },
+  "lobbet_me": {
+    "port": 6007,
+    "enabled": false,
+    "data_path": "parsers/lobbet_me/"
+  },
+  "maxbet": {
+    "port": 6008,
+    "enabled": true,
+    "data_path": "parsers/maxbet/"
+  }
+}

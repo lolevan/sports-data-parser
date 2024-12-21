@@ -1,0 +1,10 @@
+aiohttp
+fuzzywuzzy
+requests
+python-levenshtein
+aiogram
+websockets
+pytz
+eventlet
+ujson
+flask
